@@ -42,7 +42,7 @@ streamlit run app.py
 ## サンプル画面
 
 [![Image from Gyazo](https://i.gyazo.com/ccb0ce4e0528834d6fccb088c3f3adc0.png)](https://gyazo.com/ccb0ce4e0528834d6fccb088c3f3adc0)
-[![Image from Gyazo](https://i.gyazo.com/b98f599991d72efbe46ea341aa13e020.png)](https://gyazo.com/b98f599991d72efbe46ea341aa13e020)
+<p align="center">[![Image from Gyazo](https://i.gyazo.com/b98f599991d72efbe46ea341aa13e020.png)](https://gyazo.com/b98f599991d72efbe46ea341aa13e020)</p>
 [![Image from Gyazo](https://i.gyazo.com/af1c984dca93784c8d258edc70667452.png)](https://gyazo.com/af1c984dca93784c8d258edc70667452)
 
 ## ライセンス
